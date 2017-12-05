@@ -1,0 +1,16 @@
+html {
+float: center;
+font-family: "Arial";
+
+}
+
+.vertical_dotted_line
+{
+  text-align: center;
+  line-height: 2em;
+  border-right: 1px dotted black;
+  border-left: 1px dotted black;
+  margin: 0 4em 0 4em;
+  height: 100px;
+}
+
