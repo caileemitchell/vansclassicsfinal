@@ -1,0 +1,35 @@
+html {
+float: center;
+font-family: "Arial";
+
+}
+body {
+  font-family: Verdana, sans-serif;
+  background-color: #fff;
+  width: 90%;
+  max-width: 60em;
+  margin: 0 auto ;
+  padding: 1em;
+/*
+  border: 7em solid #360;
+ */
+  }
+  p:focus {
+  outline: 0;
+  }
+.vertical_dotted_line
+{
+  text-align: center;
+  line-height: 2em;
+  border-right: 1px dotted black;
+  border-left: 1px dotted black;
+  margin: 0 4em 0 4em;
+  height: 100px;
+}
+
+.framework {
+  width: 90%;
+  max-width: 60em;
+  margin: 0 auto;
+  }
+
